@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Muskan Sharma</h1>
 <h3 align="center">A passionate data analyst enthusiast who loves problem solving.</h3>
 
-- 🌱 I’m currently learning **Python and Tableau.**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 📫 How to reach me **muskaansharma22929@gmail.com**
-
-- 📄 Know about my experiences [https://resume.io/r/mspef9tAo](https://resume.io/r/mspef9tAo)
 
 - ⚡ Fun fact **I think I am funny.**
 
